@@ -1,2 +1,2 @@
-Ovo je prva linija
+Na dev menjana prva linija
 Ovo je druga linija
