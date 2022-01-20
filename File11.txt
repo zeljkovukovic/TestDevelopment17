@@ -1,2 +1,4 @@
 Prva linija za domaci zadatak
 Druga linija za domaci zadatak
+Treca linija za domaci zadatak
+Cetvrta linija za domaci zadatak
