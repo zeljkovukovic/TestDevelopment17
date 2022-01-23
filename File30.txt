@@ -1,3 +1,3 @@
-Ovo je prva linija za domaci
+Ovo je prva linija za domaci git
 ovo je druga linija za domaci
 ovo je treca linija za domaci
